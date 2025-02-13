@@ -34,6 +34,7 @@
 ## 其他
 
 - 仅支持[Gewechat](https://github.com/hanfangyuan4396/dify-on-wechat/blob/master/docs/gewechat/README.md)通道。
+- 需要更新 [DoW](https://github.com/hanfangyuan4396/dify-on-wechat) 的代码，确保带上[一些相关的改动](https://github.com/hanfangyuan4396/dify-on-wechat/pull/248)。
 - 更多[CoW](https://github.com/zhayujie/chatgpt-on-wechat)或[DoW](https://github.com/hanfangyuan4396/dify-on-wechat)插件请看 [awesome-cow-plugins](https://github.com/WoodGoose/awesome-cow-plugins)，欢迎加入"CoW 插件交流群"。
 - 任何想法、建议、需求、咨询等，欢迎加微信交流：fred2025，备注 ref。
 
