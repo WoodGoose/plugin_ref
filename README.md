@@ -5,7 +5,7 @@
 一个极简的概念验证 demo([dify-on-wechat](https://github.com/hanfangyuan4396/dify-on-wechat)插件)，支持引用文本或图片的交互方式。
 
 <div align="center">
-|<img width="240" src="./images/demo.0.jpg">|<img width="240" src="./images/demo.1.jpg">|<img width="240" src="./images/demo.2.jpg">|<img width="240" src="./images/demo.3.jpg">|
+|<img width="200" src="./images/demo.0.jpg">|<img width="200" src="./images/demo.1.jpg">|<img width="200" src="./images/demo.2.jpg">|<img width="200" src="./images/demo.3.jpg">|
 </div>
 
 ## 安装
